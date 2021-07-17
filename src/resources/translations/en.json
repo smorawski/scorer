@@ -1,0 +1,25 @@
+{
+  "cornerTheMarket": "Corner the Market",
+  "cornerTheMarket.condition": "Control 4 planets that each have the same planet trait.",
+  "cornerTheMarket.description": "Planet Traits: Cultural, Hazardous, Industrial",
+
+  "negotiateTradeRoutes": "Negotiate Trade Routes",
+  "negotiateTradeRoutes.condition": "Spend 5 trade goods.",
+  "negotiateTradeRoutes.description": "",
+
+  "masterTheSciences": "Master the Sciences",
+  "masterTheSciences.condition": "Own 2 technologies in each of 4 colors.",
+  "masterTheSciences.description": "Technology colors: Green - Biotic, Red - Warfare, Blue - Propulsion, Yellow - Cybernetic",
+
+  "achieveSupremacy": "Achieve Supremacy",
+  "achieveSupremacy.condition": "Have your flagship or a war sun in another player's home system or the Mecatol Rex system.",
+  "achieveSupremacy.description": "",
+
+  "destroyTheirGreatestShip": "Destroy Their Greatest Shipt",
+  "destroyTheirGreatestShip.condition": "Destroy another player's war sun or flagship.",
+  "destroyTheirGreatestShip.description": "",
+
+  "becomeAMartyr": "Become a Martyr",
+  "becomeAMartyr.condition": "Lose control of a planet in a home system.",
+  "becomeAMartyr.description": ""
+}
