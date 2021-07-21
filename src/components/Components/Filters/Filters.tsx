@@ -57,7 +57,7 @@ const Filters = ({ onChange }: FiltersProps) => {
     () => {
       onChange(filter);
     },
-    [filter]
+    [filter, onChange]
   );
 
   return (
