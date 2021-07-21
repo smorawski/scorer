@@ -1,0 +1,69 @@
+$SECRET_TEXT: #f9a7aa;
+$PUBLIC1_TEXT: #e1b088;
+$PUBLIC2_TEXT: #acc6df;
+
+.container {
+  position: relative;
+  overflow: hidden;
+  width: 230px;
+  height: 360px;
+  border-radius: 5px;
+  display: grid;
+  grid-template:
+  ". header ." 58px
+  ". phase ." 25px
+  ". condition ." 192px
+  ". points ." 50px
+  ". pointsLabel ." 30px
+  / auto 200px auto;
+  font-family: sans-serif;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+  color: white;
+}
+.container>* {
+  align-self: center;
+}
+
+.header {
+  grid-area: header;
+  font-size: 16px;
+  padding: 3px 10%;
+}
+
+.public1 .header {
+  color: $PUBLIC1_TEXT;
+}
+
+.public2 .header{
+  color: $PUBLIC2_TEXT;
+}
+
+.secret .header{
+  color: $SECRET_TEXT;
+}
+
+.phase {
+  grid-area: phase;
+  padding-block: 6px;
+  font-size: 13px;
+}
+
+.condition {
+  grid-area: condition;
+  align-self: center;
+  text-transform: none;
+  padding: 3px 10%;
+}
+
+.points {
+  grid-area: points;
+  font-size: 40px;
+}
+
+.pointsLabel {
+  grid-area: pointsLabel;
+  font-size: 14px;
+  text-transform: uppercase;
+}

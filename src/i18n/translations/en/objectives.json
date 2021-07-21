@@ -1,0 +1,321 @@
+{
+  "cornerTheMarket.title": "Corner the Market",
+  "cornerTheMarket.condition": "Control 4 planets that each have the same planet trait.",
+  "cornerTheMarket.description": "Planet Traits: Cultural, Hazardous, Industrial",
+
+  "developWeaponry.title": "Develop Weaponry",
+  "developWeaponry.condition": "Own 2 unit upgrade technologies.",
+  "developWeaponry.description": "",
+
+  "diversityResearch.title": "Diversify Research",
+  "diversityResearch.condition": "Own 2 technologies in each of 2 colors.",
+  "diversityResearch.description": "",
+
+  "erectAMonument.title": "Erect a Monument",
+  "erectAMonument.condition": "Spend 8 resources.",
+  "erectAMonument.description": "",
+
+  "expandBorders.title": "Expand Borders",
+  "expandBorders.condition": "Control 6 planets in non-home systems.",
+  "expandBorders.description": "",
+
+  "foundResearchOutpost.title": "Found Research Outposts",
+  "foundResearchOutpost.condition": "Control 3 planets that have technology specialties.",
+  "foundResearchOutpost.description": "",
+
+  "intimidateCouncil.title": "Intimidate Council",
+  "intimidateCouncil.condition": "Have 1 or more ships in 2 systems that are adjacent to Mecatol Rex's System.",
+  "intimidateCouncil.description": "",
+
+  "leadFromTheFront.title": "Lead From the Front",
+  "leadFromTheFront.condition": "Spend a total of 3 tokens from your tactic and/or strategy pools.",
+  "leadFromTheFront.description": "",
+
+  "negotiateTradeRoutes.title": "Negotiate Trade Routes",
+  "negotiateTradeRoutes.condition": "Spend 5 trade goods.",
+  "negotiateTradeRoutes.description": "",
+
+  "swayTheCouncil.title": "Sway the Council",
+  "swayTheCouncil.condition": "Spend 8 influence.",
+  "swayTheCouncil.description": "",
+
+  "amassWealth.title": "Amass wealth",
+  "amassWealth.condition": "Spend 3 influence, 3 resources and 3 trade goods.",
+  "amassWealth.description": "",
+
+  "buildDefences.title": "Build Defenses",
+  "buildDefences.condition": "Have 4 or more structures (on the game board).",
+  "buildDefences.description": "",
+
+  "discoverLostOutpost.title": "Discover Lost Outposts",
+  "discoverLostOutpost.condition": "Control 2 planets that have attachments.",
+  "discoverLostOutpost.description": "",
+
+  "engineerAMarvel.title": "Engineer a Marvel",
+  "engineerAMarvel.condition": "Have your flagship or a war sun on the game board.",
+  "engineerAMarvel.description": "",
+
+  "exploreDeepSpace.title": "Explore Deep Space",
+  "exploreDeepSpace.condition": "Have units in 3 systems that do not contain planets.",
+  "exploreDeepSpace.description": "",
+
+  "improveInfrastructure.title": "Improve Infrastructure",
+  "improveInfrastructure.condition": "Have structures on 3 planets outside of your home system.",
+  "improveInfrastructure.description": "",
+
+  "makeHistory.title": "Make History",
+  "makeHistory.condition": "Have units in 2 systems that contain legendary planets, Mecatol Rex or anomalies.",
+  "makeHistory.description": "",
+
+  "populateTheOuterRim.title": "Populate the Outer Rim",
+  "populateTheOuterRim.condition": "Have units in 3 systems on the edge of the game board (other than your home system).",
+  "populateTheOuterRim.description": "",
+
+  "pushBoundaries.title": "Push Boundaries",
+  "pushBoundaries.condition": "Control more planets than each of 2 of your neighbors.",
+  "pushBoundaries.description": "",
+
+  "raiseAFleet.title": "Raise a Fleet",
+  "raiseAFleet.condition": "Have 5 or more non-fighter ships in one system.",
+  "raiseAFleet.description": "",
+
+  "centralizeGalacticTrade.title": "Centralize Galactic Trade",
+  "centralizeGalacticTrade.condition": "Spend 10 trade goods.",
+  "centralizeGalacticTrade.description": "",
+
+  "conquerTheWeak.title": "Conquer the Weak",
+  "conquerTheWeak.condition": "Control 1 planet that is in another player's home system.",
+  "conquerTheWeak.description": "",
+
+  "formGalacticBrainTrust.title": "Form Galactic Brain Trust",
+  "formGalacticBrainTrust.condition": "Control 5 planets that have technology specialties.",
+  "formGalacticBrainTrust.description": "",
+
+  "foundAGoldenAge.title": "Found a Golden Age",
+  "foundAGoldenAge.condition": "Spend 16 resources.",
+  "foundAGoldenAge.description": "",
+
+  "galvanizeThePeople.title": "Galvanize the People",
+  "galvanizeThePeople.condition": "Spend a total of 6 tokens from your tactic and/or strategy pools.",
+  "galvanizeThePeople.description": "",
+
+  "manipulateGalacticLaw.title": "Manipulate Galactic Law",
+  "manipulateGalacticLaw.condition": "Spend 16 influence.",
+  "manipulateGalacticLaw.description": "",
+
+  "masterTheSciences.title": "Master the Sciences",
+  "masterTheSciences.condition": "Own 2 technologies in each of 4 colors.",
+  "masterTheSciences.description": "Technology colors: Green - Biotic, Red - Warfare, Blue - Propulsion, Yellow - Cybernetic",
+
+  "revolutionizeWarfare.title": "Revolutionize Warfare",
+  "revolutionizeWarfare.condition": "Own 3 unit upgrade technologies.",
+  "revolutionizeWarfare.description": "",
+
+  "subdueTheGalaxy.title": "Subdue the Galaxy",
+  "subdueTheGalaxy.condition": "Control 11 planets in non-home systems.",
+  "subdueTheGalaxy.description": "",
+
+  "unifyTheColonies.title": "Unify the Colonies",
+  "unifyTheColonies.condition": "Control 6 planets that each have the same planet trait.",
+  "unifyTheColonies.description": "",
+
+  "achieveSupremacy.title": "Achieve Supremacy",
+  "achieveSupremacy.condition": "Have your flagship or a war sun in another player's home system or the Mecatol Rex system.",
+  "achieveSupremacy.description": "",
+
+  "becomeALegend.title": "Become a Legend",
+  "becomeALegend.condition": "Have units in 4 systems that contain legendary planets, Mecatol Rex, or anomalies.",
+  "becomeALegend.description": "",
+
+  "commandAnArmada.title": "Command an Armada",
+  "commandAnArmada.condition": "Have 8 or more non-fighter ships in 1 system.",
+  "commandAnArmada.description": "",
+
+  "constructMassiveCities.title": "Construct Massive Cities",
+  "constructMassiveCities.condition": "Have 7 or more structures (on the game board).",
+  "constructMassiveCities.description": "",
+
+  "controlTheBorderlands.title": "Control the Borderlands",
+  "controlTheBorderlands.condition": "Have units in 5 systems on the edge of the game board (other than your home system).",
+  "controlTheBorderlands.description": "",
+
+  "holdVastReserves.title": "Hold Vast Reserves",
+  "holdVastReserves.condition": "Spend 6 influence, 6 resources and 6 trade goods.",
+  "holdVastReserves.description": "",
+
+  "patrolVastTerritories.title": "Patrol Vast Territories",
+  "patrolVastTerritories.condition": "Have units in 5 systems that do not contain planets.",
+  "patrolVastTerritories.description": "",
+
+  "protectTheBorder.title": "Protect the Border",
+  "protectTheBorder.condition": "Have structures on 5 planets outside of your home system.",
+  "protectTheBorder.description": "",
+
+  "reclaimAncientMonuments.title": "Reclaim Ancient Monuments",
+  "reclaimAncientMonuments.condition": "Control 3 planets that have attachments.",
+  "reclaimAncientMonuments.description": "",
+
+  "ruleDistantLands.title": "Rule Distant Lands",
+  "ruleDistantLands.condition": "Control 2 planets that are each in or adjacent to a different, other player's home system.",
+  "ruleDistantLands.description": "",
+
+  "destroyTheirGreatestShip.title": "Destroy Their Greatest Ship",
+  "destroyTheirGreatestShip.condition": "Destroy another player's war sun or flagship.",
+  "destroyTheirGreatestShip.description": "",
+
+  "makeAnExampleOfTheirWorld.title": "Make an Example of Their World",
+  "makeAnExampleOfTheirWorld.condition": "Use BOMBARDMENT to destroy the last of a player's ground forces on a planet.",
+  "makeAnExampleOfTheirWorld.description": "",
+
+  "sparkARebellion.title": "Spark a Rebellion",
+  "sparkARebellion.condition": "Win a combat against a player who has the most victory points.",
+  "sparkARebellion.description": "",
+
+  "turnTheirFleetsToDust.title": "Turn Their Fleets to Dust",
+  "turnTheirFleetsToDust.condition": "Use SPACE CANNON to destroy the last of a player's ships in a system.",
+  "turnTheirFleetsToDust.description": "",
+
+  "unveilFlagship.title": "Unveil Flagship",
+  "unveilFlagship.condition": "Win a space combat in a system that contains your flagship. You cannot score this objective if your flagship is destroyed in the combat.",
+  "unveilFlagship.description": "",
+
+  "becomeAMartyr.title": "Become a Martyr",
+  "becomeAMartyr.condition": "Lose control of a planet in a home system.",
+  "becomeAMartyr.description": "",
+
+  "betrayAFriend.title": "Betray a Friend",
+  "betrayAFriend.condition": "Win a combat against a player whose promissory note you had in your play area at the start of your tactical action.",
+  "betrayAFriend.description": "",
+
+  "braveTheVoid.title": "Brave the Void",
+  "braveTheVoid.condition": "Win a combat in an anomaly.",
+  "braveTheVoid.description": "",
+
+  "darkenTheSkies.title": "Darken the Skies",
+  "darkenTheSkies.condition": "Win a combat in another player's home system.",
+  "darkenTheSkies.description": "",
+
+  "demonstrateYourPower.title": "Demonstrate Your Power",
+  "demonstrateYourPower.condition": "Have 3 or more non-fighter ships in the active system at the end of a space combat.",
+  "demonstrateYourPower.description": "",
+
+  "fightWithPrecision.title": "Fight With Precision",
+  "fightWithPrecision.condition": "Use ANTI-FIGHTER BARRAGE to destroy the last of a player's fighters in a system.",
+  "fightWithPrecision.description": "",
+
+  "proveEndurance.title": "Prove Endurance",
+  "proveEndurance.condition": "Be the last player to pass during a game round.",
+  "proveEndurance.description": "",
+
+  "adaptNewStrategies.title": "Adapt New Strategies",
+  "adaptNewStrategies.condition": "Own 2 faction technologies. (Valefar Assimilator technologies do not count toward this objective)",
+  "adaptNewStrategies.description": "",
+
+  "becomeTheGatekeeper.title": "Become the Gatekeeper",
+  "becomeTheGatekeeper.condition": "Have 1 or more ships in a system that contains an alpha wormhole and 1 or more ships in a system that contains a beta wormhole.",
+  "becomeTheGatekeeper.description": "",
+
+  "controlTheRegion.title": "Control the Region",
+  "controlTheRegion.condition": "Have 1 or more ships in 6 systems.",
+  "controlTheRegion.description": "",
+
+  "cutSupplyLines.title": "Cut Supply Lines",
+  "cutSupplyLines.condition": "Have 1 or more ships in the same system as another player's space dock.",
+  "cutSupplyLines.description": "",
+
+  "establishAPerimeter.title": "Establish a Perimeter",
+  "establishAPerimeter.condition": "Have 4 PDS units on the game board.",
+  "establishAPerimeter.description": "",
+
+  "forgeAnAlliance.title": "Forge an Alliance",
+  "forgeAnAlliance.condition": "Control 4 cultural planets.",
+  "forgeAnAlliance.description": "",
+
+  "formASpyNetwork.title": "Form a Spy Network",
+  "formASpyNetwork.condition": "Discard 5 Action Cards.",
+  "formASpyNetwork.description": "",
+
+  "fuelTheWarMachine.title": "Fuel the War Machine",
+  "fuelTheWarMachine.condition": "Have 3 space docks on the game board.",
+  "fuelTheWarMachine.description": "",
+
+  "gatherAMightyFleet.title": "Gather a Mighty Fleet",
+  "gatherAMightyFleet.condition": "Have 5 dreadnoughts on the game board.",
+  "gatherAMightyFleet.description": "",
+
+  "learnTheSecretsOfTheCosmos.title": "Learn the Secrets of the Cosmos",
+  "learnTheSecretsOfTheCosmos.condition": "Have 1 or more ships in 3 systems that are each adjacent to an anomaly.",
+  "learnTheSecretsOfTheCosmos.description": "",
+
+  "masterTheLawsOfPhysics.title": "Master the Laws of Physics",
+  "masterTheLawsOfPhysics.condition": "Own 4 technologies of the same color.",
+  "masterTheLawsOfPhysics.description": "",
+
+  "mineRareMetals.title": "Mine Rare Metals",
+  "mineRareMetals.condition": "Control 4 hazardous planets.",
+  "mineRareMetals.description": "",
+
+  "monopolizeProduction.title": "Monopolize Production",
+  "monopolizeProduction.condition": "Control 4 industrial planets.",
+  "monopolizeProduction.description": "",
+
+  "occupyTheSeatOfTheEmpire.title": "Occupy the Seat of the Empire",
+  "occupyTheSeatOfTheEmpire.condition": "Control Mecatol Rex and have 3 or more ships in its system.",
+  "occupyTheSeatOfTheEmpire.description": "",
+
+  "threatenEnemies.title": "Threaten Enemies",
+  "threatenEnemies.condition": "Have 1 or more ships in a system that is adjacent to another player's home system.",
+  "threatenEnemies.description": "",
+
+  "defySpaceAndTime.title": "Defy Space and Time",
+  "defySpaceAndTime.condition": "Have units in the wormhole nexus",
+  "defySpaceAndTime.description": "",
+
+  "destroyHereticalWorks.title": "Destroy Heretical Works",
+  "destroyHereticalWorks.condition": "Purge 2 of your relic fragments of any type.",
+  "destroyHereticalWorks.description": "If an ability instructs a player to purge a component, that component is removed from the game and returned to the box",
+
+  "establishHegemony.title": "Establish Hegemony",
+  "establishHegemony.condition": "Control planets that have a combined influence value of at least 12.",
+  "establishHegemony.description": "",
+
+  "fosterCohesion.title": "Foster Cohesion",
+  "fosterCohesion.condition": "Be neighbors with all other players",
+  "fosterCohesion.description": "",
+
+  "hoardRawMaterials.title": "Hoard Raw Materials",
+  "hoardRawMaterials.condition": "Control planets that have a combined resource value of at least 12.",
+  "hoardRawMaterials.description": "",
+
+  "mechanizeTheMilitary.title": "Mechanize The Military",
+  "mechanizeTheMilitary.condition": "Have 1 mech on each of 4 planets.",
+  "mechanizeTheMilitary.description": "",
+
+  "occupyTheFringe.title": "Occupy The Fringe",
+  "occupyTheFringe.condition":  "Have 9 or more ground forces on a planet that does not contain 1 of your space docks.",
+  "occupyTheFringe.description": "",
+
+  "produceEnMasse.title": "Produce En Masse",
+  "produceEnMasse.condition": "Have units with a combined PRODUCTION value of at least 8 in a single system.",
+  "produceEnMasse.description": "",
+
+  "seizeAnIcon.title": "Seize An Icon",
+  "seizeAnIcon.condition": "Control a legendary planet.",
+  "seizeAnIcon.description": "",
+
+  "stakeYourClaim.title": "Stake your Claim",
+  "stakeYourClaim.condition": "Control a planet in a system that contains a planet controlled by another player.",
+  "stakeYourClaim.description": "",
+
+  "strengthenBonds.title": "Strengthen Bonds",
+  "strengthenBonds.condition": "Have another player's promissory note in your play area.",
+  "strengthenBonds.description": "",
+
+  "dictatePolicy.title": "Dictate Policy",
+  "dictatePolicy.condition": "There are 3 or more laws in play",
+  "dictatePolicy.description": "",
+
+  "driveTheDebate.title": "Drive the Debate",
+  "driveTheDebate.condition": "You or a planet you control are elected by an agenda.",
+  "driveTheDebate.description": ""
+}

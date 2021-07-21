@@ -1,0 +1,60 @@
+.container {
+  margin: 20px;
+}
+
+.text {
+  font-size: 12px;
+}
+
+.objective,
+.pokExpansion {
+  visibility: hidden;
+  margin-right: 10px;
+}
+
+.objective:before,
+.pokExpansion:before {
+  cursor: pointer;
+  display: inline-block;
+  visibility: initial;
+  width: 20px;
+  height: 20px;
+  border-radius: 10px;
+
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  text-align: center;
+}
+
+.objective:not(:checked):before,
+.pokExpansion:not(:checked):before {
+  background-color: #cfd0d1;
+}
+
+.public1:before {
+  background-color: #ecb96a;
+  content: "I";
+}
+
+.public2:before {
+  background-color: #237aaf;
+  content: "II";
+}
+
+.secret:before {
+  background-color: #d04a49;
+  content: "S";
+}
+
+.pokExpansion:before {
+  content: "♦";
+  background-color: #d4d279;
+}
+
+.clear {
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  font-weight: bold;
+}

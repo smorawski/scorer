@@ -1,7 +1,14 @@
 export enum ObjectiveType {
-  Public1,
-  Public2,
-  Secret,
+  Public1 = "public1",
+  Public2 = "public2",
+  Secret = "secret",
+};
+
+export enum GamePhase {
+  Action = "actionPhase",
+  Agenda = "agendaPhase",
+  Status = "statusPhase",
+  Strategy = "strategyPhase",
 };
 
 export enum GameExpansion {
@@ -10,10 +17,11 @@ export enum GameExpansion {
 };
 
 export type Objective = {
-  name: String;
-  condition: String;
-  points: Number;
-  description: String;
+  name: string;
+  phase: GamePhase;
+  condition: string;
+  points: number;
+  description: string;
   type: ObjectiveType;
   expansion: GameExpansion;
 };

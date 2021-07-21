@@ -1,0 +1,9 @@
+{
+  "victoryPoints": "Victory {points, plural, one {point} other {points}}",
+  "statusPhase": "Status Phase",
+  "agendaPhase": "Agenda Phase",
+  "actionPhase": "Action Phase",
+  "strategyPhase": "Strategy Phase",
+  "observed": "Observed",
+  "all": "All"
+}
