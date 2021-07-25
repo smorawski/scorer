@@ -1,19 +1,29 @@
 .container {
   margin: 20px;
+  display: flex;
+  flex-direction: row;
 }
 
 .text {
   font-size: 12px;
 }
 
-.objective,
-.pokExpansion {
+.objective {
   visibility: hidden;
   margin-right: 10px;
+  display: block;
 }
 
-.objective:before,
-.pokExpansion:before {
+.pokExpansion {
+  display: block;
+  cursor: pointer;
+}
+
+.pokExpansion input {
+  display: none;
+}
+
+.objective:before {
   cursor: pointer;
   display: inline-block;
   visibility: initial;
@@ -27,8 +37,7 @@
   text-align: center;
 }
 
-.objective:not(:checked):before,
-.pokExpansion:not(:checked):before {
+.objective:not(:checked):before {
   background-color: #cfd0d1;
 }
 
@@ -45,11 +54,6 @@
 .secret:before {
   background-color: #d04a49;
   content: "S";
-}
-
-.pokExpansion:before {
-  content: "♦";
-  background-color: #d4d279;
 }
 
 .clear {
