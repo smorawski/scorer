@@ -1,10 +1,23 @@
-.container {
+.menu {
+  padding: 20px;
+}
+
+button {
+  outline: none;
+  cursor: pointer;
+  font-size: 20px;
+  background-color: none;
+  border: none;
+  background-color: transparent;
+}
+
+.list {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
 }
 
-.container>* {
+.list>* {
   margin: 5px;
 }

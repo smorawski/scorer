@@ -1,0 +1,10 @@
+{
+  "victoryPoints": "{points, plural, one {Punkt} other {Punkty}} zwycięstwa",
+  "statusPhase": "Faza statusu",
+  "agendaPhase": "Faza polityki",
+  "actionPhase": "Faza akcji",
+  "strategyPhase": "Faza strategii",
+  "observed": "Obserwowane",
+  "all": "Wszystkie",
+  "clear": "Wyczyść"
+}

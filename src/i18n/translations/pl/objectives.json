@@ -1,0 +1,321 @@
+{
+  "cornerTheMarket.title": "Zmonopolizuj Rynek",
+  "cornerTheMarket.condition": "Musisz kontrolować 4 planety z tą samą cechą.",
+  "cornerTheMarket.description": "Cechy Planet: Kulturowa, Niegościnna, Przemysłowa",
+
+  "developWeaponry.title": "Opracuj nową bronią",
+  "developWeaponry.condition": "Musisz posiadać 2 technologie ulepszeń jednostek.",
+  "developWeaponry.description": "",
+
+  "diversityResearch.title": "Zdywersyfikuj badania",
+  "diversityResearch.condition": "Musisz posiadać po 2 technologie w 2 różnych kolorach.",
+  "diversityResearch.description": "",
+
+  "erectAMonument.title": "Wznieś pomnik",
+  "erectAMonument.condition": "Musisz wydać 8 zasobów.",
+  "erectAMonument.description": "",
+
+  "expandBorders.title": "Rozszerz granice",
+  "expandBorders.condition": "Musisz kontrolować 6 planet w układach nie-macierzystych.",
+  "expandBorders.description": "",
+
+  "foundResearchOutpost.title": "Załóż sieć placówek naukowych",
+  "foundResearchOutpost.condition": "Musisz kontrolować 3 planety ze specjalizacją technologiczną.",
+  "foundResearchOutpost.description": "",
+
+  "intimidateCouncil.title": "Zastrasz radę",
+  "intimidateCouncil.condition": "Musisz posiadać po 1 lub więcej statków w 2 układach sąsiadującychz układem Mecatol Rex.",
+  "intimidateCouncil.description": "",
+
+  "leadFromTheFront.title": "Rozkazuj z linii frontu",
+  "leadFromTheFront.condition": "Musisz wydać w sumie 3 żetony ze swojej puli taktyki i/lub strategii.",
+  "leadFromTheFront.description": "",
+
+  "negotiateTradeRoutes.title": "Wynegocjuj szlaki handlowe",
+  "negotiateTradeRoutes.condition": "Musisz wydać 5 żetonów dóbr.",
+  "negotiateTradeRoutes.description": "",
+
+  "swayTheCouncil.title": "Przekonaj radę",
+  "swayTheCouncil.condition": "Musisz wydać 8 punktów wpływów.",
+  "swayTheCouncil.description": "",
+
+  "amassWealth.title": "Zgromadź bogactwo",
+  "amassWealth.condition": "Musisz wydać 3 punkty wpływów, 3 zasoby i 3 żetony dóbr.",
+  "amassWealth.description": "",
+
+  "buildDefences.title": "Zbuduj systemy obronne",
+  "buildDefences.condition": "Musisz posiadać co najmniej 4 budowle.",
+  "buildDefences.description": "",
+
+  "discoverLostOutpost.title": "Odkryj zaginione przyczółki",
+  "discoverLostOutpost.condition": "Musisz kontrolować 2 planety, które mają dodatki.",
+  "discoverLostOutpost.description": "",
+
+  "engineerAMarvel.title": "Zaprojektuj cud technologii",
+  "engineerAMarvel.condition": "Musisz posiadać swój okręt flagowy lub słońce wojny na planszy.",
+  "engineerAMarvel.description": "",
+
+  "exploreDeepSpace.title": "Eksploruj najdalszą przestrzeń",
+  "exploreDeepSpace.condition": "Musisz posiadać jednostki w 3 układach, w których nie znajdują się żadne planety.",
+  "exploreDeepSpace.description": "",
+
+  "improveInfrastructure.title": "Ulepsz infrastrukturę",
+  "improveInfrastructure.condition": "Musisz posiadać budowle na 3 planetach poza swoim układem macierzystym.",
+  "improveInfrastructure.description": "",
+
+  "makeHistory.title": "Zmień bieg historii",
+  "makeHistory.condition": "Musisz posiadać jednostki w 2 układach, w których znajdują się legendarrne planety, Mecatol Rex lub anomalie.",
+  "makeHistory.description": "",
+
+  "populateTheOuterRim.title": "Zaludnij zewnętrzne rubieże",
+  "populateTheOuterRim.condition": "Musisz posiadać jednostki w 3 układach na krawędzi planszy, które nie są twoim układem macieszystym.",
+  "populateTheOuterRim.description": "",
+
+  "pushBoundaries.title": "Poszerz granice",
+  "pushBoundaries.condition": "Musisz kontrolować więcej planet niż każdy z 2 twoich sąsiadów.",
+  "pushBoundaries.description": "",
+
+  "raiseAFleet.title": "Stwórz flotę",
+  "raiseAFleet.condition": "Musisz posiadać 5 lub więcej statków nie będących myśliwcami w 1 układzie.",
+  "raiseAFleet.description": "",
+
+  "centralizeGalacticTrade.title": "Scentralizuj galaktyczny handel",
+  "centralizeGalacticTrade.condition": "Musisz wydać 10 żetonów dóbr.",
+  "centralizeGalacticTrade.description": "",
+
+  "conquerTheWeak.title": "Podnij słabych",
+  "conquerTheWeak.condition": "Musisz kontrolować 1 planetę w układzie macierzystym innego gracza.",
+  "conquerTheWeak.description": "",
+
+  "formGalacticBrainTrust.title": "Załóż galaktyczną grupę ekspercką",
+  "formGalacticBrainTrust.condition": "Musisz kontrolować 5 planet ze specjalizacjami technologicznymi.",
+  "formGalacticBrainTrust.description": "",
+
+  "foundAGoldenAge.title": "Rozpocznij złoty wiek",
+  "foundAGoldenAge.condition": "Musisz wydać 16 zasobów.",
+  "foundAGoldenAge.description": "",
+
+  "galvanizeThePeople.title": "Natchnij ducha ludu",
+  "galvanizeThePeople.condition": "Musisz wydać  w sumie 6 żetonów ze swojej puli taktyki i/lub strategii.",
+  "galvanizeThePeople.description": "",
+
+  "manipulateGalacticLaw.title": "Zmanipuluj galaktyczne prawo",
+  "manipulateGalacticLaw.condition": "Musisz wydać 16 punktów wpływów.",
+  "manipulateGalacticLaw.description": "",
+
+  "masterTheSciences.title": "Zostań naukową potęgą",
+  "masterTheSciences.condition": "Musisz posiadać po 2 technologie w kadym z 4 kolorów.",
+  "masterTheSciences.description": "Kolory technologii: zielony - Biotyczne, czerwone - Wojenne, niebieskie - Napęd, żółte - Cybernetyczne",
+
+  "revolutionizeWarfare.title": "Ustanów nowy paradygmat wojny",
+  "revolutionizeWarfare.condition": "Musisz posiadać 3 technologie ulepszeń jednostek.",
+  "revolutionizeWarfare.description": "",
+
+  "subdueTheGalaxy.title": "Podporządkuj sobie galaktykę",
+  "subdueTheGalaxy.condition": "Musisz kontrolować 11 planet w układach nie-macierzystych.",
+  "subdueTheGalaxy.description": "",
+
+  "unifyTheColonies.title": "Zjednocz kolonie",
+  "unifyTheColonies.condition": "Musisz kontrolować 6 planet z tą samą cechą.",
+  "unifyTheColonies.description": "",
+
+  "achieveSupremacy.title": "Osiągnij supremację",
+  "achieveSupremacy.condition": "Musisz posiadać swój okręt flagowy lub słońce wojny w układzie macieszystym innego gracza lub w układzie Mecatol Rex.",
+  "achieveSupremacy.description": "",
+
+  "becomeALegend.title": "Stań się legendą",
+  "becomeALegend.condition": "Musisz posiadać jednostki w 4 układach, w których znajdują się legendarne planety, Mecatol Rex lub anomalie.",
+  "becomeALegend.description": "",
+
+  "commandAnArmada.title": "Stań na czele armady",
+  "commandAnArmada.condition": "Musisz posiadać 8 lub więcej statków nie będących myśliwcami w 1 układzie.",
+  "commandAnArmada.description": "",
+
+  "constructMassiveCities.title": "Wznieś wielkie miasta",
+  "constructMassiveCities.condition": "Musisz posiadać co najmniej 7 budowli.",
+  "constructMassiveCities.description": "",
+
+  "controlTheBorderlands.title": "Broń granicy",
+  "controlTheBorderlands.condition": "Musisz posiadać budowle na 5 planetach poza twoim układem macierzystym.",
+  "controlTheBorderlands.description": "",
+
+  "holdVastReserves.title": "Zgromadź ogromne rezerwy",
+  "holdVastReserves.condition": "Wydaj 6 punktów wpływów, 6 zasobów i 6 żetonów dóbr.",
+  "holdVastReserves.description": "",
+
+  "patrolVastTerritories.title": "Patroluj rozległe terytoria",
+  "patrolVastTerritories.condition": "Musisz posiadać jednostki w 5 układach, w których nie znajdują się żadne planety.",
+  "patrolVastTerritories.description": "",
+
+  "protectTheBorder.title": "Kontroluj przestrzeń graniczną",
+  "protectTheBorder.condition": "Musisz posiadać jednostki w 5 układach na krawędzi planszy, które nie są twoim układem macierzystym.",
+  "protectTheBorder.description": "",
+
+  "reclaimAncientMonuments.title": "Odzyskaj starożytne zabytki",
+  "reclaimAncientMonuments.condition": "Musisz kontrolować 3 planety, które mają dodatki.",
+  "reclaimAncientMonuments.description": "",
+
+  "ruleDistantLands.title": "Rządź odległymi światami",
+  "ruleDistantLands.condition": "Musisz kontrolować 2 planety, które znajdują się w układach macierzystych lub sąsiadują z układami macierzystymi różnych graczy (nie licząc ciebie).",
+  "ruleDistantLands.description": "",
+
+  "destroyTheirGreatestShip.title": "Zniszcz ich nojpotężniejszy okręt",
+  "destroyTheirGreatestShip.condition": "Musisz zniszczyć słońce wojny lub okręt flagowy innego gracza.",
+  "destroyTheirGreatestShip.description": "",
+
+  "makeAnExampleOfTheirWorld.title": "Uczyń ich świat przykładem",
+  "makeAnExampleOfTheirWorld.condition": "Musisz użyć zdollności BOMBARDOWANIE, aby zniszczyć ostatnie jednostki wojsk naziemnych innego gracza na dowolnej planecie.",
+  "makeAnExampleOfTheirWorld.description": "",
+
+  "sparkARebellion.title": "Rozpal iskrę rebelii",
+  "sparkARebellion.condition": "Musisz wygrać bitwę przeciwko graczowi, który posiada najwięcej punktów zwycięstwa.",
+  "sparkARebellion.description": "",
+
+  "turnTheirFleetsToDust.title": "Obróć ich flotę w pył",
+  "turnTheirFleetsToDust.condition": "Musisz użyć zdolności DZIAŁO KOSMICZNE, aby zniszczyć ostatnie statki innego gracza w dowolnym układzie.",
+  "turnTheirFleetsToDust.description": "",
+
+  "unveilFlagship.title": "Przetestuj okręt flagowy",
+  "unveilFlagship.condition": "Musisz wygrać bitwę kosmiczną w układzie, w którym znajduje się twój okręt flagowy. Nie możesz zrealizować tego celu, jeśli podczas tej bitwy twój okręt flagowy został zniszczony.",
+  "unveilFlagship.description": "",
+
+  "becomeAMartyr.title": "Zostań męczennikiem",
+  "becomeAMartyr.condition": "Musisz stracić kontrolę nad planetą w układzie macierzystym.",
+  "becomeAMartyr.description": "",
+
+  "betrayAFriend.title": "Zdradź przyjaciela",
+  "betrayAFriend.condition": "Musisz wygrać bitwę przeciwko graczowi, którego weksel miałeś na swoim obszarze gry na początku swojej akcji taktycznej.",
+  "betrayAFriend.description": "",
+
+  "braveTheVoid.title": "Rzuć wyzwanie pustce",
+  "braveTheVoid.condition": "Musisz wygrać bitwę w anomalii.",
+  "braveTheVoid.description": "",
+
+  "darkenTheSkies.title": "Zaciemnij niebo",
+  "darkenTheSkies.condition": "Musisz wygrać bitwę w układzie macierzystym innego gracza.",
+  "darkenTheSkies.description": "",
+
+  "demonstrateYourPower.title": "Zademonstruj potęgę",
+  "demonstrateYourPower.condition": "Musisz posiadać 3 lub więcej statków nie będących myśliwcami w aktywnym układzie na końcu bitwy kosmicznej.",
+  "demonstrateYourPower.description": "",
+
+  "fightWithPrecision.title": "Walcz precyzyjnie",
+  "fightWithPrecision.condition": "Użyj OSTRZAŁU PRZECIWMYŚLIWSKIEGO, aby zniszczyć ostatni z myśliwców gracza w układzie.",
+  "fightWithPrecision.description": "",
+
+  "proveEndurance.title": "Udowodnij wytrwałość",
+  "proveEndurance.condition": "Musisz być ostatnim graczem, który spasuje w rundzie.",
+  "proveEndurance.description": "",
+
+  "adaptNewStrategies.title": "Opracuj nowe strategie",
+  "adaptNewStrategies.condition": "Musisz posiadać 2 technologie ras. (W ramach tego celu nie bierze się pod uwagę technologii \"Asymilator valefara\")",
+  "adaptNewStrategies.description": "",
+
+  "becomeTheGatekeeper.title": "Zostań strażnikiem bramy",
+  "becomeTheGatekeeper.condition": "Musisz posiadać 1 lub więcej statków w układzie, w którym znajduje się tunel czasoprzestrzenny alfa, i 1 lub więcej statków w układzie, w którym znajduje się tunel czasoprzestrzenny beta.",
+  "becomeTheGatekeeper.description": "",
+
+  "controlTheRegion.title": "Kontroluj region",
+  "controlTheRegion.condition": "Musisz posiadać po 1 lub więcej statków w 6 układach.",
+  "controlTheRegion.description": "",
+
+  "cutSupplyLines.title": "Przerwij linie zaopatrzeniowe",
+  "cutSupplyLines.condition": "Musisz posiadać 1 lub więcej statków w tym samym układzie, w którym znajduje się stocznia kosmiczna innego gracza.",
+  "cutSupplyLines.description": "",
+
+  "establishAPerimeter.title": "Ustanów perymetr",
+  "establishAPerimeter.condition": "Musisz posiadać na planszy 4 jednostki PSD.",
+  "establishAPerimeter.description": "",
+
+  "forgeAnAlliance.title": "Zawrzyj przymierze",
+  "forgeAnAlliance.condition": "Musisz kontrolować 4 planety kulturowe.",
+  "forgeAnAlliance.description": "",
+
+  "formASpyNetwork.title": "Załóż siatkę szpiegowską",
+  "formASpyNetwork.condition": "Musisz odrzucić 5 kart akcji.",
+  "formASpyNetwork.description": "",
+
+  "fuelTheWarMachine.title": "Rozkręć machinę wojenną",
+  "fuelTheWarMachine.condition": "Musisz posiadać na planszy 3 stocznie kosmiczne.",
+  "fuelTheWarMachine.description": "",
+
+  "gatherAMightyFleet.title": "Zbuduj potężną flotę",
+  "gatherAMightyFleet.condition": "Musisz posiadać na planszy 5 pancerników.",
+  "gatherAMightyFleet.description": "",
+
+  "learnTheSecretsOfTheCosmos.title": "Poznaj sekrety kosmosu",
+  "learnTheSecretsOfTheCosmos.condition": "Musisz posiadać po 1 lub więcej statków w 3 układach sąsiadujących z anomalią.",
+  "learnTheSecretsOfTheCosmos.description": "",
+
+  "masterTheLawsOfPhysics.title": "Opanuj prawa fizyki",
+  "masterTheLawsOfPhysics.condition": "Musisz posiadać 4 technologie w tym samym kolorze.",
+  "masterTheLawsOfPhysics.description": "",
+
+  "mineRareMetals.title": "Rozpocznij wydobycie rzadkich metali",
+  "mineRareMetals.condition": "Musisz kontrolować 4 niegościnne planety.",
+  "mineRareMetals.description": "",
+
+  "monopolizeProduction.title": "Zmonopolizuj produkcję",
+  "monopolizeProduction.condition": "Musisz kontrolować 4 planety przemysłowe.",
+  "monopolizeProduction.description": "",
+
+  "occupyTheSeatOfTheEmpire.title": "Okupuj stolicę imperium",
+  "occupyTheSeatOfTheEmpire.condition": "Musisz kontrolować Mecatol Rex i posiadać w jego układzie 3 lub więcej statków.",
+  "occupyTheSeatOfTheEmpire.description": "",
+
+  "threatenEnemies.title": "Zagroź wrogom",
+  "threatenEnemies.condition": "Musisz posiadać 1 lub więcej statków w układzie sąsiadującym z układem macierzystym innego gracza.",
+  "threatenEnemies.description": "",
+
+  "defySpaceAndTime.title": "Oprzyj się czasowi i przestrzeni",
+  "defySpaceAndTime.condition": "Musisz posiadać jednostki w węźle tuneli czasoprzestrzennych",
+  "defySpaceAndTime.description": "",
+
+  "destroyHereticalWorks.title": "Zniszcz heretyckie dzieła",
+  "destroyHereticalWorks.condition": "Unicestwij 2 swoje fragmenty reliktów dowolnego typu.",
+  "destroyHereticalWorks.description": "Jeśli zdolność nakazuje graczowi UNICESTWIĆ jakiś element gry, dany element jest usuwany z gry i odkładany do pudełka.",
+
+  "establishHegemony.title": "Ustanów hegemonię",
+  "establishHegemony.condition": "Musisz kontrolować planety, których łączna wartość wpływów wynosi co najmniej 12.",
+  "establishHegemony.description": "",
+
+  "fosterCohesion.title": "Promuj jedność",
+  "fosterCohesion.condition": "Musisz być sąsiadem wszystkich pozostałych graczy.",
+  "fosterCohesion.description": "",
+
+  "hoardRawMaterials.title": "Zmagazynuj rzadkie surowce",
+  "hoardRawMaterials.condition": "Musisz kontrolować planety, których łączna wartość zasobów wynosi co najmniej 12.",
+  "hoardRawMaterials.description": "",
+
+  "mechanizeTheMilitary.title": "Zmechanizuj armię",
+  "mechanizeTheMilitary.condition": "Musisz posiadać po 1 mechu na 4 planetach.",
+  "mechanizeTheMilitary.description": "",
+
+  "occupyTheFringe.title": "Okupuj granice",
+  "occupyTheFringe.condition":  "Musisz mieć 9 lub więcej wojsk naziemnych na plancecie, na której NIE znajduje się 1 z twoich stoczni kosmicznych.",
+  "occupyTheFringe.description": "",
+
+  "produceEnMasse.title": "Produkuj na masową skalę",
+  "produceEnMasse.condition": "Musisz posiadać jednostki o łącznej wartości PRODUKCJI co najmniej 8 w jednym układzie.",
+  "produceEnMasse.description": "",
+
+  "seizeAnIcon.title": "Zdobądź symbol",
+  "seizeAnIcon.condition": "Musisz kontrolować legendarną planetę.",
+  "seizeAnIcon.description": "",
+
+  "stakeYourClaim.title": "Rzuć wyzwanie",
+  "stakeYourClaim.condition": "Musisz kontrolować planetę w układzie, w którym znajduje się planeta kontrolowana przez innego gracza.",
+  "stakeYourClaim.description": "",
+
+  "strengthenBonds.title": "Wzmocnij więzi",
+  "strengthenBonds.condition": "Musisz posiadać weksel innego gracza na swoim obszarze gry.",
+  "strengthenBonds.description": "",
+
+  "dictatePolicy.title": "Dyktuj politykę",
+  "dictatePolicy.condition": "W grze znajdują się 3 lub więcej praw.",
+  "dictatePolicy.description": "",
+
+  "driveTheDebate.title": "Poprowadź debatę",
+  "driveTheDebate.condition": "Ty lub kontrolowana przez ciebie planeta zostaniecie wyłonieni przez kartę polityki.",
+  "driveTheDebate.description": ""
+}

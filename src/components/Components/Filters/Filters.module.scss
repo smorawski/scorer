@@ -57,8 +57,9 @@
 }
 
 .clear {
+  outline:none;
   cursor: pointer;
-  background-color: transparent;
+  font-size: 20px;
+  background-color: none;
   border: none;
-  font-weight: bold;
 }

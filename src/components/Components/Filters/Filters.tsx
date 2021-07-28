@@ -1,4 +1,6 @@
 import { useState, ChangeEvent, useEffect } from 'react';
+import { FormattedMessage } from 'react-intl';
+import { GENERAL } from '../../../i18n';
 import PoKIcon from '../../Components/Icons/PoK';
 import { ObjectiveType, GameExpansion } from '../../../resources/types';
 
@@ -96,7 +98,7 @@ const Filters = ({ onChange }: FiltersProps) => {
         checked={isSecretActive}
       />
       <label className={styles.pokExpansion}>
-        <PoKIcon width={18} height={18} color={(isPoKActive ? '#000' : '#cfd0d1')}/>
+        <PoKIcon width={22} height={22} color={(isPoKActive ? '#000' : '#cfd0d1')}/>
         <input
           type="checkbox"
           className={styles.pokExpansion}
@@ -105,7 +107,7 @@ const Filters = ({ onChange }: FiltersProps) => {
         />
       </label>
       <button className={styles.clear} onClick={() => setFilter({})}>
-        Clear
+        <FormattedMessage id={GENERAL.CLEAR} />
       </button>
     </div>
   )

@@ -6,4 +6,5 @@ export default {
   STRATEGY_PHASE: 'strategyPhase',
   OBSERVED: 'observed',
   ALL: 'all',
+  CLEAR: 'clear',
 };

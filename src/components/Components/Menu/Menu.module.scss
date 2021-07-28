@@ -1,13 +1,16 @@
 .container {
+  padding: 20px;
   display: flex;
   flex-direction: row;
+  justify-content: space-between;
 }
 
 .button {
+  margin-right: 20px;
   outline:none;
   cursor: pointer;
-  font-size: 20px;
-  background-color: none;
+  font-size: 25px;
+  background-color: transparent;
   border: none;
 }
 

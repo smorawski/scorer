@@ -1,10 +1,10 @@
-interface PoKIcon {
+interface PoKIconProps {
   width?: number;
   height?: number;
   color?: string;
 };
 
-const PoKIcon = ({ width = 25, height = 25, color = "#000" }: PoKIcon) => {
+const PoKIcon = ({ width = 25, height = 25, color = "#000" }: PoKIconProps) => {
   return (
     <svg
       width={width}
