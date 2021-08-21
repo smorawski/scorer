@@ -7,16 +7,16 @@ import EyeOffIcon from '../Components/Icons/EyeOff';
 import styles from './AllList.module.scss';
 
 interface AllListProps {
-  objectives: Array<Objective>;
-  observedObjectives: Array<Objective>;
+  allObjectives: Array<Objective>;
+  observedObjectives: Array<string>;
   observeCard: (objective: Objective) => void;
   removeCard: (objective: Objective)  => void;
 }
 
-const AllList = ({ objectives, observedObjectives, observeCard, removeCard } : AllListProps) => {
+const AllList = ({ allObjectives, observedObjectives, observeCard, removeCard } : AllListProps) => {
   const [filter, setFilter] = useState<ObjectiveFilter>({});
 
-  const filteredObjectives = filterObjectives(objectives, filter);
+  const filteredObjectives = filterObjectives(allObjectives, filter);
 
   return (
     <div>
@@ -25,7 +25,7 @@ const AllList = ({ objectives, observedObjectives, observeCard, removeCard } : A
         {
           filteredObjectives.map(
             (objective: Objective) => {
-              const isObserved = observedObjectives.some(({ name }) => objective.name === name);
+              const isObserved = observedObjectives.some((objectiveId) => objective.id === objectiveId);
               return isObserved
                 ? <ActionableObjective key={objective.name} objective={objective} onAction={removeCard} actionContent={<EyeOffIcon />} />
                 : <ActionableObjective key={objective.name} objective={objective} onAction={observeCard} actionContent={<EyeIcon />} />;

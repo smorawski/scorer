@@ -13,25 +13,25 @@ function App() {
 
   const [mode, setMode] = useState<Mode>(Mode.All);
 
-  const [observedObjectives, setObservedObjectives] = useState<Array<Objective>>(persistentStorage.getObservedObjectives());
+  const [observedObjectives, setObservedObjectives] = useState<Array<string>>(persistentStorage.getObservedObjectivesIds());
 
   const allObjectives = useMemo(() => ResourcesProvider.getObjectives(language), [language]);
 
   const addCardToObserved = (objective: Objective): void => {
-    const objectives = [...observedObjectives, objective];
+    const objectives = [...observedObjectives, objective.id];
     setObservedObjectives(objectives);
-    persistentStorage.setObservedObjectives(objectives);
+    persistentStorage.setObservedObjectivesIds(objectives);
   };
 
   const removeCardFromObserved = (objective: Objective): void => {
-    const objectives = observedObjectives.filter(({ name }) => name !== objective.name);
+    const objectives = observedObjectives.filter((objectiveId) => objectiveId !== objective.id);
     setObservedObjectives(objectives);
-    persistentStorage.setObservedObjectives(objectives);
+    persistentStorage.setObservedObjectivesIds(objectives);
   };
 
   const clearObjectives = () => {
     setObservedObjectives([]);
-    persistentStorage.setObservedObjectives([]);
+    persistentStorage.setObservedObjectivesIds([]);
   }
 
   const changeLanguage = (newLanguage: Language): void => {
@@ -51,12 +51,12 @@ function App() {
       {
         mode === Mode.All
         ? <AllList
-          objectives={allObjectives}
+          allObjectives={allObjectives}
           observedObjectives={observedObjectives}
           observeCard={addCardToObserved}
           removeCard={removeCardFromObserved}
         />
-        : <ObservedList objectives={observedObjectives} removeObjective={removeCardFromObserved} clearObjectives={clearObjectives} />
+        : <ObservedList allObjectives={allObjectives} observedObjectives={observedObjectives} removeObjective={removeCardFromObserved} clearObjectives={clearObjectives} />
       }
     </IntlProvider>
   );
