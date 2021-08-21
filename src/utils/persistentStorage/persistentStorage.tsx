@@ -8,7 +8,7 @@ export interface PersistentStorage {
   setObservedObjectivesIds(objectives: Array<string>): void;
 }
 
-const OBSERVED_OBJECTIVES_KEY = 'OBSERVED_OBJECTIVES_KEY';
+const OBSERVED_OBJECTIVES_KEY = 'OBSERVED_OBJECTIVES';
 const LANGUAGE_KEY = 'LANGUAGE';
 
 export default {
