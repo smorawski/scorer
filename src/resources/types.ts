@@ -17,6 +17,7 @@ export enum GameExpansion {
 };
 
 export type Objective = {
+  id: string;
   name: string;
   phase: GamePhase;
   condition: string;

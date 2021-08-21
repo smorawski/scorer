@@ -6,6 +6,7 @@ export const Objectives : Array<Objective> = [
 
   //// Basic
   {
+    id: OBJECTIVES.CORNER_THE_MARKET.TITLE,
     name: OBJECTIVES.CORNER_THE_MARKET.TITLE,
     condition: OBJECTIVES.CORNER_THE_MARKET.CONDITION,
     points: 1,
@@ -15,6 +16,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.DEVELOP_WEAPONRY.TITLE,
     name: OBJECTIVES.DEVELOP_WEAPONRY.TITLE,
     condition: OBJECTIVES.DEVELOP_WEAPONRY.CONDITION,
     points: 1,
@@ -24,6 +26,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.DIVERSIFY_RESEARCH.TITLE,
     name: OBJECTIVES.DIVERSIFY_RESEARCH.TITLE,
     condition: OBJECTIVES.DIVERSIFY_RESEARCH.CONDITION,
     points: 1,
@@ -33,6 +36,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.ERECT_A_MONUMENT.TITLE,
     name: OBJECTIVES.ERECT_A_MONUMENT.TITLE,
     condition: OBJECTIVES.ERECT_A_MONUMENT.CONDITION,
     points: 1,
@@ -42,6 +46,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.EXPAND_BORDERS.TITLE,
     name: OBJECTIVES.EXPAND_BORDERS.TITLE,
     condition: OBJECTIVES.EXPAND_BORDERS.CONDITION,
     points: 1,
@@ -51,6 +56,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.FOUND_RESEARCH_OUTPOST.TITLE,
     name: OBJECTIVES.FOUND_RESEARCH_OUTPOST.TITLE,
     condition: OBJECTIVES.FOUND_RESEARCH_OUTPOST.CONDITION,
     points: 1,
@@ -60,6 +66,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.INTIMIDATE_COUNCIL.TITLE,
     name: OBJECTIVES.INTIMIDATE_COUNCIL.TITLE,
     condition: OBJECTIVES.INTIMIDATE_COUNCIL.CONDITION,
     points: 1,
@@ -69,6 +76,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.LEAD_FROM_THE_FRONT.TITLE,
     name: OBJECTIVES.LEAD_FROM_THE_FRONT.TITLE,
     condition: OBJECTIVES.LEAD_FROM_THE_FRONT.CONDITION,
     points: 1,
@@ -78,6 +86,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.NEGOTIATE_TRADE_ROUTES.TITLE,
     name: OBJECTIVES.NEGOTIATE_TRADE_ROUTES.TITLE,
     condition: OBJECTIVES.NEGOTIATE_TRADE_ROUTES.CONDITION,
     points: 1,
@@ -87,6 +96,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.SWAY_THE_COUNCIL.TITLE,
     name: OBJECTIVES.SWAY_THE_COUNCIL.TITLE,
     condition: OBJECTIVES.SWAY_THE_COUNCIL.CONDITION,
     points: 1,
@@ -97,6 +107,7 @@ export const Objectives : Array<Objective> = [
   },
   //// PoK
   {
+    id: OBJECTIVES.AMASS_WEALTH.TITLE,
     name: OBJECTIVES.AMASS_WEALTH.TITLE,
     condition: OBJECTIVES.AMASS_WEALTH.CONDITION,
     points: 1,
@@ -106,6 +117,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.BUILD_DEFENCES.TITLE,
     name: OBJECTIVES.BUILD_DEFENCES.TITLE,
     condition: OBJECTIVES.BUILD_DEFENCES.CONDITION,
     points: 1,
@@ -115,6 +127,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.DISCOVER_LOST_OUTPOST.TITLE,
     name: OBJECTIVES.DISCOVER_LOST_OUTPOST.TITLE,
     condition: OBJECTIVES.DISCOVER_LOST_OUTPOST.CONDITION,
     points: 1,
@@ -124,6 +137,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.ENGINEER_A_MARVEL.TITLE,
     name: OBJECTIVES.ENGINEER_A_MARVEL.TITLE,
     condition: OBJECTIVES.ENGINEER_A_MARVEL.CONDITION,
     points: 1,
@@ -133,6 +147,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.EXPLORE_DEEP_SPACE.TITLE,
     name: OBJECTIVES.EXPLORE_DEEP_SPACE.TITLE,
     condition: OBJECTIVES.EXPLORE_DEEP_SPACE.CONDITION,
     points: 1,
@@ -142,6 +157,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.IMPROVE_INFRASTRUCTURE.TITLE,
     name: OBJECTIVES.IMPROVE_INFRASTRUCTURE.TITLE,
     condition: OBJECTIVES.IMPROVE_INFRASTRUCTURE.CONDITION,
     points: 1,
@@ -151,6 +167,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.MAKE_HISTORY.TITLE,
     name: OBJECTIVES.MAKE_HISTORY.TITLE,
     condition: OBJECTIVES.MAKE_HISTORY.CONDITION,
     points: 1,
@@ -160,6 +177,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.POPULATE_THE_OUTER_RIM.TITLE,
     name: OBJECTIVES.POPULATE_THE_OUTER_RIM.TITLE,
     condition: OBJECTIVES.POPULATE_THE_OUTER_RIM.CONDITION,
     points: 1,
@@ -169,6 +187,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.PUSH_BOUNDARIES.TITLE,
     name: OBJECTIVES.PUSH_BOUNDARIES.TITLE,
     condition: OBJECTIVES.PUSH_BOUNDARIES.CONDITION,
     points: 1,
@@ -178,6 +197,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.RAISE_A_FLEET.TITLE,
     name: OBJECTIVES.RAISE_A_FLEET.TITLE,
     condition: OBJECTIVES.RAISE_A_FLEET.CONDITION,
     points: 1,
@@ -189,6 +209,7 @@ export const Objectives : Array<Objective> = [
   // Public 2
   //// Basic
   {
+    id: OBJECTIVES.CENTRALIZE_GALACTIC_TRADE.TITLE,
     name: OBJECTIVES.CENTRALIZE_GALACTIC_TRADE.TITLE,
     condition: OBJECTIVES.CENTRALIZE_GALACTIC_TRADE.CONDITION,
     points: 2,
@@ -198,6 +219,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.CONQUER_THE_WEAK.TITLE,
     name: OBJECTIVES.CONQUER_THE_WEAK.TITLE,
     condition: OBJECTIVES.CONQUER_THE_WEAK.CONDITION,
     points: 2,
@@ -207,6 +229,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.FORM_GALACTIC_BRAIN_TRUST.TITLE,
     name: OBJECTIVES.FORM_GALACTIC_BRAIN_TRUST.TITLE,
     condition: OBJECTIVES.FORM_GALACTIC_BRAIN_TRUST.CONDITION,
     points: 2,
@@ -216,6 +239,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.FOUND_A_GOLDEN_AGE.TITLE,
     name: OBJECTIVES.FOUND_A_GOLDEN_AGE.TITLE,
     condition: OBJECTIVES.FOUND_A_GOLDEN_AGE.CONDITION,
     points: 2,
@@ -225,6 +249,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.GALVANIZE_THE_PEOPLE.TITLE,
     name: OBJECTIVES.GALVANIZE_THE_PEOPLE.TITLE,
     condition: OBJECTIVES.GALVANIZE_THE_PEOPLE.CONDITION,
     points: 2,
@@ -234,6 +259,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.MANIPULATE_GALACTIC_LAW.TITLE,
     name: OBJECTIVES.MANIPULATE_GALACTIC_LAW.TITLE,
     condition: OBJECTIVES.MANIPULATE_GALACTIC_LAW.CONDITION,
     points: 2,
@@ -243,6 +269,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.MASTER_THE_SCIENCE.TITLE,
     name: OBJECTIVES.MASTER_THE_SCIENCE.TITLE,
     condition: OBJECTIVES.MASTER_THE_SCIENCE.CONDITION,
     points: 2,
@@ -252,6 +279,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.REVOLUTIONIZE_WARFARE.TITLE,
     name: OBJECTIVES.REVOLUTIONIZE_WARFARE.TITLE,
     condition: OBJECTIVES.REVOLUTIONIZE_WARFARE.CONDITION,
     points: 2,
@@ -261,6 +289,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.SUBDUE_THE_GALAXY.TITLE,
     name: OBJECTIVES.SUBDUE_THE_GALAXY.TITLE,
     condition: OBJECTIVES.SUBDUE_THE_GALAXY.CONDITION,
     points: 2,
@@ -270,6 +299,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.UNIFY_THE_COLONIES.TITLE,
     name: OBJECTIVES.UNIFY_THE_COLONIES.TITLE,
     condition: OBJECTIVES.UNIFY_THE_COLONIES.CONDITION,
     points: 2,
@@ -280,6 +310,7 @@ export const Objectives : Array<Objective> = [
   },
   //// PoK
   {
+    id: OBJECTIVES.ACHIEVE_SUPREMACY.TITLE,
     name: OBJECTIVES.ACHIEVE_SUPREMACY.TITLE,
     condition: OBJECTIVES.ACHIEVE_SUPREMACY.CONDITION,
     points: 2,
@@ -289,6 +320,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.BECOME_A_LEGEND.TITLE,
     name: OBJECTIVES.BECOME_A_LEGEND.TITLE,
     condition: OBJECTIVES.BECOME_A_LEGEND.CONDITION,
     points: 2,
@@ -298,6 +330,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.COMMAND_AN_ARMADA.TITLE,
     name: OBJECTIVES.COMMAND_AN_ARMADA.TITLE,
     condition: OBJECTIVES.COMMAND_AN_ARMADA.CONDITION,
     points: 2,
@@ -307,6 +340,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.CONSTRUCT_MASSIVE_CITIES.TITLE,
     name: OBJECTIVES.CONSTRUCT_MASSIVE_CITIES.TITLE,
     condition: OBJECTIVES.CONSTRUCT_MASSIVE_CITIES.CONDITION,
     points: 2,
@@ -316,6 +350,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.CONTROL_THE_BORDERLANDS.TITLE,
     name: OBJECTIVES.CONTROL_THE_BORDERLANDS.TITLE,
     condition: OBJECTIVES.CONTROL_THE_BORDERLANDS.CONDITION,
     points: 2,
@@ -325,6 +360,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.HOLD_VAST_RESERVES.TITLE,
     name: OBJECTIVES.HOLD_VAST_RESERVES.TITLE,
     condition: OBJECTIVES.HOLD_VAST_RESERVES.CONDITION,
     points: 2,
@@ -334,6 +370,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.PATROL_VAST_TERRITORIES.TITLE,
     name: OBJECTIVES.PATROL_VAST_TERRITORIES.TITLE,
     condition: OBJECTIVES.PATROL_VAST_TERRITORIES.CONDITION,
     points: 2,
@@ -343,6 +380,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.PROTECT_THE_BORDER.TITLE,
     name: OBJECTIVES.PROTECT_THE_BORDER.TITLE,
     condition: OBJECTIVES.PROTECT_THE_BORDER.CONDITION,
     points: 2,
@@ -352,6 +390,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.RECLAIM_ANCIENT_MONUMENTS.TITLE,
     name: OBJECTIVES.RECLAIM_ANCIENT_MONUMENTS.TITLE,
     condition: OBJECTIVES.RECLAIM_ANCIENT_MONUMENTS.CONDITION,
     points: 2,
@@ -361,6 +400,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.RULE_DISTANT_LANDS.TITLE,
     name: OBJECTIVES.RULE_DISTANT_LANDS.TITLE,
     condition: OBJECTIVES.RULE_DISTANT_LANDS.CONDITION,
     points: 2,
@@ -373,6 +413,7 @@ export const Objectives : Array<Objective> = [
   // Secrets
   //// Basic Action
   {
+    id: OBJECTIVES.DESTROY_THEIR_GREATEST_SHIP.TITLE,
     name: OBJECTIVES.DESTROY_THEIR_GREATEST_SHIP.TITLE,
     condition: OBJECTIVES.DESTROY_THEIR_GREATEST_SHIP.CONDITION,
     points: 1,
@@ -382,6 +423,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Action,
   },
   {
+    id: OBJECTIVES.MAKE_AN_EXAMPLE_OF_THEIR_WORLD.TITLE,
     name: OBJECTIVES.MAKE_AN_EXAMPLE_OF_THEIR_WORLD.TITLE,
     condition: OBJECTIVES.MAKE_AN_EXAMPLE_OF_THEIR_WORLD.CONDITION,
     points: 1,
@@ -391,6 +433,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Action,
   },
   {
+    id: OBJECTIVES.SPARK_A_REBELLION.TITLE,
     name: OBJECTIVES.SPARK_A_REBELLION.TITLE,
     condition: OBJECTIVES.SPARK_A_REBELLION.CONDITION,
     points: 1,
@@ -400,6 +443,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Action,
   },
   {
+    id: OBJECTIVES.TURN_THEIR_FLEETS_TO_DUST.TITLE,
     name: OBJECTIVES.TURN_THEIR_FLEETS_TO_DUST.TITLE,
     condition: OBJECTIVES.TURN_THEIR_FLEETS_TO_DUST.CONDITION,
     points: 1,
@@ -409,6 +453,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Action,
   },
   {
+    id: OBJECTIVES.UNVEIL_FLAGSHIP.TITLE,
     name: OBJECTIVES.UNVEIL_FLAGSHIP.TITLE,
     condition: OBJECTIVES.UNVEIL_FLAGSHIP.CONDITION,
     points: 1,
@@ -419,6 +464,7 @@ export const Objectives : Array<Objective> = [
   },
   //// PoK Action
   {
+    id: OBJECTIVES.BECOME_A_MARTYR.TITLE,
     name: OBJECTIVES.BECOME_A_MARTYR.TITLE,
     condition: OBJECTIVES.BECOME_A_MARTYR.CONDITION,
     points: 1,
@@ -428,6 +474,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Action,
   },
   {
+    id: OBJECTIVES.BETRAY_A_FRIEND.TITLE,
     name: OBJECTIVES.BETRAY_A_FRIEND.TITLE,
     condition: OBJECTIVES.BETRAY_A_FRIEND.CONDITION,
     points: 1,
@@ -437,6 +484,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Action,
   },
   {
+    id: OBJECTIVES.BRAVE_THE_VOID.TITLE,
     name: OBJECTIVES.BRAVE_THE_VOID.TITLE,
     condition: OBJECTIVES.BRAVE_THE_VOID.CONDITION,
     points: 1,
@@ -446,6 +494,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Action,
   },
   {
+    id: OBJECTIVES.DARKEN_THE_SKIES.TITLE,
     name: OBJECTIVES.DARKEN_THE_SKIES.TITLE,
     condition: OBJECTIVES.DARKEN_THE_SKIES.CONDITION,
     points: 1,
@@ -455,6 +504,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Action,
   },
   {
+    id: OBJECTIVES.DEMONSTRATE_YOUR_POWER.TITLE,
     name: OBJECTIVES.DEMONSTRATE_YOUR_POWER.TITLE,
     condition: OBJECTIVES.DEMONSTRATE_YOUR_POWER.CONDITION,
     points: 1,
@@ -464,6 +514,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Action,
   },
   {
+    id: OBJECTIVES.FIGHT_WITH_PRECISION.TITLE,
     name: OBJECTIVES.FIGHT_WITH_PRECISION.TITLE,
     condition: OBJECTIVES.FIGHT_WITH_PRECISION.CONDITION,
     points: 1,
@@ -473,6 +524,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Action,
   },
   {
+    id: OBJECTIVES.PROVE_ENDURANCE.TITLE,
     name: OBJECTIVES.PROVE_ENDURANCE.TITLE,
     condition: OBJECTIVES.PROVE_ENDURANCE.CONDITION,
     points: 1,
@@ -483,6 +535,7 @@ export const Objectives : Array<Objective> = [
   },
   //// Basic Status
   {
+    id: OBJECTIVES.ADAPT_NEW_STRATEGIES.TITLE,
     name: OBJECTIVES.ADAPT_NEW_STRATEGIES.TITLE,
     condition: OBJECTIVES.ADAPT_NEW_STRATEGIES.CONDITION,
     points: 1,
@@ -492,6 +545,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.BECOME_THE_GATEKEEPER.TITLE,
     name: OBJECTIVES.BECOME_THE_GATEKEEPER.TITLE,
     condition: OBJECTIVES.BECOME_THE_GATEKEEPER.CONDITION,
     points: 1,
@@ -501,6 +555,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.CONTROL_THE_REGION.TITLE,
     name: OBJECTIVES.CONTROL_THE_REGION.TITLE,
     condition: OBJECTIVES.CONTROL_THE_REGION.CONDITION,
     points: 1,
@@ -510,6 +565,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.CUT_SUPPLY_LINES.TITLE,
     name: OBJECTIVES.CUT_SUPPLY_LINES.TITLE,
     condition: OBJECTIVES.CUT_SUPPLY_LINES.CONDITION,
     points: 1,
@@ -519,6 +575,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.ESTABLISH_A_PERIMETER.TITLE,
     name: OBJECTIVES.ESTABLISH_A_PERIMETER.TITLE,
     condition: OBJECTIVES.ESTABLISH_A_PERIMETER.CONDITION,
     points: 1,
@@ -528,6 +585,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.FORGE_AN_ALLIANCE.TITLE,
     name: OBJECTIVES.FORGE_AN_ALLIANCE.TITLE,
     condition: OBJECTIVES.FORGE_AN_ALLIANCE.CONDITION,
     points: 1,
@@ -537,6 +595,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.FORM_A_SPY_NETWORK.TITLE,
     name: OBJECTIVES.FORM_A_SPY_NETWORK.TITLE,
     condition: OBJECTIVES.FORM_A_SPY_NETWORK.CONDITION,
     points: 1,
@@ -546,6 +605,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.FUEL_THE_WAR_MACHINE.TITLE,
     name: OBJECTIVES.FUEL_THE_WAR_MACHINE.TITLE,
     condition: OBJECTIVES.FUEL_THE_WAR_MACHINE.CONDITION,
     points: 1,
@@ -555,6 +615,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.GATHER_A_MIGHTY_FLEET.TITLE,
     name: OBJECTIVES.GATHER_A_MIGHTY_FLEET.TITLE,
     condition: OBJECTIVES.GATHER_A_MIGHTY_FLEET.CONDITION,
     points: 1,
@@ -564,6 +625,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.LEARN_THE_SECRETS_OF_THE_COSMOS.TITLE,
     name: OBJECTIVES.LEARN_THE_SECRETS_OF_THE_COSMOS.TITLE,
     condition: OBJECTIVES.LEARN_THE_SECRETS_OF_THE_COSMOS.CONDITION,
     points: 1,
@@ -573,6 +635,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.MASTER_THE_LAWS_OF_PHYSICS.TITLE,
     name: OBJECTIVES.MASTER_THE_LAWS_OF_PHYSICS.TITLE,
     condition: OBJECTIVES.MASTER_THE_LAWS_OF_PHYSICS.CONDITION,
     points: 1,
@@ -582,6 +645,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.MINE_RARE_METALS.TITLE,
     name: OBJECTIVES.MINE_RARE_METALS.TITLE,
     condition: OBJECTIVES.MINE_RARE_METALS.CONDITION,
     points: 1,
@@ -591,6 +655,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.MONOPOLIZE_PRODUCTION.TITLE,
     name: OBJECTIVES.MONOPOLIZE_PRODUCTION.TITLE,
     condition: OBJECTIVES.MONOPOLIZE_PRODUCTION.CONDITION,
     points: 1,
@@ -600,6 +665,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.OCCUPY_THE_SEAT_OF_THE_EMPIRE.TITLE,
     name: OBJECTIVES.OCCUPY_THE_SEAT_OF_THE_EMPIRE.TITLE,
     condition: OBJECTIVES.OCCUPY_THE_SEAT_OF_THE_EMPIRE.CONDITION,
     points: 1,
@@ -609,6 +675,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.THREATEN_ENEMIES.TITLE,
     name: OBJECTIVES.THREATEN_ENEMIES.TITLE,
     condition: OBJECTIVES.THREATEN_ENEMIES.CONDITION,
     points: 1,
@@ -619,6 +686,7 @@ export const Objectives : Array<Objective> = [
   },
   //// POK Status
   {
+    id: OBJECTIVES.DEFY_SPACE_AND_TIME.TITLE,
     name: OBJECTIVES.DEFY_SPACE_AND_TIME.TITLE,
     condition: OBJECTIVES.DEFY_SPACE_AND_TIME.CONDITION,
     points: 1,
@@ -628,6 +696,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.DESTROY_HERETICAL_WORKS.TITLE,
     name: OBJECTIVES.DESTROY_HERETICAL_WORKS.TITLE,
     condition: OBJECTIVES.DESTROY_HERETICAL_WORKS.CONDITION,
     points: 1,
@@ -637,6 +706,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.ESTABLISH_HEGEMONY.TITLE,
     name: OBJECTIVES.ESTABLISH_HEGEMONY.TITLE,
     condition: OBJECTIVES.ESTABLISH_HEGEMONY.CONDITION,
     points: 1,
@@ -646,6 +716,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.FOSTER_COHESION.TITLE,
     name: OBJECTIVES.FOSTER_COHESION.TITLE,
     condition: OBJECTIVES.FOSTER_COHESION.CONDITION,
     points: 1,
@@ -655,6 +726,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.HOARD_RAW_MATERIALS.TITLE,
     name: OBJECTIVES.HOARD_RAW_MATERIALS.TITLE,
     condition: OBJECTIVES.HOARD_RAW_MATERIALS.CONDITION,
     points: 1,
@@ -664,6 +736,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.MECHANIZE_THE_MILITARY.TITLE,
     name: OBJECTIVES.MECHANIZE_THE_MILITARY.TITLE,
     condition: OBJECTIVES.MECHANIZE_THE_MILITARY.CONDITION,
     points: 1,
@@ -673,6 +746,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.OCCUPY_THE_FRINGE.TITLE,
     name: OBJECTIVES.OCCUPY_THE_FRINGE.TITLE,
     condition: OBJECTIVES.OCCUPY_THE_FRINGE.CONDITION,
     points: 1,
@@ -682,6 +756,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.PRODUCE_EN_MASSE.TITLE,
     name: OBJECTIVES.PRODUCE_EN_MASSE.TITLE,
     condition: OBJECTIVES.PRODUCE_EN_MASSE.CONDITION,
     points: 1,
@@ -691,6 +766,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.SEIZE_AN_ICON.TITLE,
     name: OBJECTIVES.SEIZE_AN_ICON.TITLE,
     condition: OBJECTIVES.SEIZE_AN_ICON.CONDITION,
     points: 1,
@@ -700,6 +776,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.STAKE_YOUR_CLAIM.TITLE,
     name: OBJECTIVES.STAKE_YOUR_CLAIM.TITLE,
     condition: OBJECTIVES.STAKE_YOUR_CLAIM.CONDITION,
     points: 1,
@@ -709,6 +786,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Status,
   },
   {
+    id: OBJECTIVES.STRENGTHEN_BONDS.TITLE,
     name: OBJECTIVES.STRENGTHEN_BONDS.TITLE,
     condition: OBJECTIVES.STRENGTHEN_BONDS.CONDITION,
     points: 1,
@@ -719,6 +797,7 @@ export const Objectives : Array<Objective> = [
   },
   //// POK Agenda
   {
+    id: OBJECTIVES.DICTATE_POLICY.TITLE,
     name: OBJECTIVES.DICTATE_POLICY.TITLE,
     condition: OBJECTIVES.DICTATE_POLICY.CONDITION,
     points: 1,
@@ -728,6 +807,7 @@ export const Objectives : Array<Objective> = [
     phase: GamePhase.Agenda,
   },
   {
+    id: OBJECTIVES.DRIVE_THE_DEBATE.TITLE,
     name: OBJECTIVES.DRIVE_THE_DEBATE.TITLE,
     condition: OBJECTIVES.DRIVE_THE_DEBATE.CONDITION,
     points: 1,

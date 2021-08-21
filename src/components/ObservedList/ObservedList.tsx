@@ -6,12 +6,25 @@ import EyeOffIcon from '../Components/Icons/EyeOff';
 import styles  from './ObservedList.module.scss';
 
 interface ObservedListProps {
-  objectives: Array<Objective>,
+  observedObjectives: Array<string>,
+  allObjectives: Array<Objective>,
   removeObjective(objective: Objective): void,
   clearObjectives(): void;
 };
 
-const ObservedList = ({ objectives, removeObjective, clearObjectives }: ObservedListProps) => {
+const ObservedList = ({ observedObjectives, allObjectives, removeObjective, clearObjectives }: ObservedListProps) => {
+  const objectives = allObjectives.reduce(
+    (accumulator: Array<Objective>, current: Objective): Array<Objective> => {
+      const observedIndex = observedObjectives.indexOf(current.id);
+      if (observedIndex >= 0) {
+        accumulator[observedIndex] = current;
+        return accumulator;
+      }
+      return accumulator;
+    },
+    [],
+  );
+
   return (
     <div className={styles.container}>
       <div className={styles.menu}>
