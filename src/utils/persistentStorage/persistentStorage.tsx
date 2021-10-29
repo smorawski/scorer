@@ -1,4 +1,3 @@
-import { Objective } from '../../resources/types';
 import { Language } from '../../i18n';
 
 export interface PersistentStorage {

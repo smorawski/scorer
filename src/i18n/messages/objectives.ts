@@ -1,4 +1,4 @@
-export default {
+const objectiveMessages = {
   // Public 1
   CORNER_THE_MARKET: {
     TITLE: "cornerTheMarket.title",
@@ -481,4 +481,6 @@ export default {
     CONDITION: "driveTheDebate.condition",
     DESCRIPTION: "driveTheDebate.description",
   },
-}
+};
+
+export default objectiveMessages;

@@ -1,7 +1,9 @@
 import general from './general.json';
 import objectives from './objectives.json';
 
-export default {
+const joinedTranslations = {
   ...general,
   ...objectives,
 };
+
+export default joinedTranslations;

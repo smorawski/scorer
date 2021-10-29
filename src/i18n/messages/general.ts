@@ -1,4 +1,4 @@
-export default {
+const generalMessages = {
   VICTORY_POINTS: 'victoryPoints',
   STATUS_PHASE: 'statusPhase',
   AGENDA_PHASE: 'agendaPhase',
@@ -8,3 +8,5 @@ export default {
   ALL: 'all',
   CLEAR: 'clear',
 };
+
+export default generalMessages;
